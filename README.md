@@ -1,10 +1,9 @@
-<h1>Hi, I'm Chris, an <a href="https://www.linkedin.com/in/christopher-sherman-35548a259/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Chris
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Gfridge90/osticket-prereq)
-  - [osTicket: Post-Installation Configuration](https://github.com/Christophersherman/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Christophersherman/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Christophersherman/configure-ad)
