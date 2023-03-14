@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/christophersherman
+[linkedin]: https://www.linkedin.com/in/christopher-sherman-35548a259/
